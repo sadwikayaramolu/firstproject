@@ -5,7 +5,7 @@
 <stong><h1>hi iam sadwika</h1></strong>
 <ul>
   <li>sadwika</li>
-  <li>sadwika</li>
+  <li>lakshmi</li>
 </ul>
 </body>
 </html>
