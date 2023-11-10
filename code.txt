@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <head>this is my first html page</head>
 <body>
-<stong><h1>hi iam sadwika</h1></strong>
+<stong><h1>hi iam sadwika yaramolu</h1></strong>
 <ul>
-  <li>rasmitha</li>
+  <li>sadwika</li>
   <li>lekha</li>
 </ul>
 </body>
