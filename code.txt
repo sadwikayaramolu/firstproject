@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>this is my first html page</head>
+<body>
+<stong><h1>hi iam rasmitha</h1></strong>
+<ul>
+  <li>rasmitha</li>
+  <li>lekha</li>
+</ul>
+</body>
+</html>
